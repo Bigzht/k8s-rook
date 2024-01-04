@@ -1,2 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-resizer:v1.9.2
-MAINTAINER Q
+FROM  registry.k8s.io/sig-storage/csi-snapshotter:v6.3.2
